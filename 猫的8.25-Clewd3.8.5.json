@@ -26,7 +26,7 @@
     "reverse_proxy": "http://127.0.0.1:8445/v1",
     "proxy_password": "123",
     "legacy_streaming": false,
-    "max_context_unlocked": false,
+    "max_context_unlocked": true,
     "nsfw_avoidance_prompt": "",
     "wi_format": "[Details of the fictional world the RP is set in:\n{0}]\n",
     "stream_openai": true,
